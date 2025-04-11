@@ -1,32 +1,26 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Hola!+Soy+David+Ruiz+Diaz++Soy+desarrollador+de+software+fullstack++e+investigador+en+tecnolog%C3%ADa+aplicada.y)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Hola!!+Soy+David+;D%3CMe+encanta+la+tecnolog%C3%ADa!!)](https://git.io/typing-svg)
 
-![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
+💻 Soy desallorrador de software **fullstack**
 
+🤓 También soy investigador en **tecnología aplicada**
+ 
+🔬 Trabajo en varios proyectos de **investigación y desarrollo**
 
-![snake animation](https://github.com/davidruizdiaz/davidruizdiaz/blob/output/github-contribution-grid-snake2.svg)
+### Contactos
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&color=02d1e8)](https://www.linkedin.com/in/david-rd/)
+[![Mail](https://img.shields.io/badge/-Enviame_un_mail-090909?style=for-the-badge&color=045fde)](mailto:adavidruizdiaz@gmail.com)
 
- ### Languages and Tools:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+ ### Mis Lenguajes preferidos:
+<img src="https://skillicons.dev/icons?i=javascript,python,java,php,bash,html,css" />
 
+### Mis herramientas favoritas:
+<img src="https://skillicons.dev/icons?i=linux,debian,neovim,vim" /><br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,raspberrypi,arduino," /><br>
+<img src="https://skillicons.dev/icons?i=nodejs,react,vue,express,nextjs,electron" /><br>
+<img src="https://skillicons.dev/icons?i=spring,laravel,postgres,mysql,sqlite,mongo,hibernate," /><br>
 
-### Socials:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/joseconejerosivo/)
-[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://jose-conejero.netlify.app/)
+### Mis contribuciones:
+![snake animation](https://github.com/davidruizdiaz/davidruizdiaz/blob/output/github-contribution-grid-snake.svg)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JCSIVO&theme=github_dark) 
